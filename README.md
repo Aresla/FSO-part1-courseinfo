@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+The Full stack course held at the Department of Computer Science at the University of Helsinki in Spring 2023. Part 1
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# FSO-part1-courseinfo
+## FSO-part1-courseinfo
